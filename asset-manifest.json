@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7b2d6f96.css",
-    "main.js": "/static/js/main.24b394e4.js",
-    "static/js/453.120cc603.chunk.js": "/static/js/453.120cc603.chunk.js",
-    "index.html": "/index.html",
-    "main.7b2d6f96.css.map": "/static/css/main.7b2d6f96.css.map",
-    "main.24b394e4.js.map": "/static/js/main.24b394e4.js.map",
-    "453.120cc603.chunk.js.map": "/static/js/453.120cc603.chunk.js.map"
+    "main.css": "/taivuttaja/static/css/main.7b2d6f96.css",
+    "main.js": "/taivuttaja/static/js/main.28925136.js",
+    "static/js/453.120cc603.chunk.js": "/taivuttaja/static/js/453.120cc603.chunk.js",
+    "index.html": "/taivuttaja/index.html",
+    "main.7b2d6f96.css.map": "/taivuttaja/static/css/main.7b2d6f96.css.map",
+    "main.28925136.js.map": "/taivuttaja/static/js/main.28925136.js.map",
+    "453.120cc603.chunk.js.map": "/taivuttaja/static/js/453.120cc603.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b2d6f96.css",
-    "static/js/main.24b394e4.js"
+    "static/js/main.28925136.js"
   ]
 }
